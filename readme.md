@@ -28,10 +28,10 @@ If the main tweaking script fails to fetch this repository automatically:
 
 | Utility | Purpose |
 | :--- | :--- |
-| **NSudo** | Run applications with elevated `TrustedInstaller` / System privileges. |
-| **OpenShell** | Custom menu themes and UI configurations. |
-| **Nvidia** | Pre-configured Profile Inspector settings. |
-| **Timer Resolution** | Latency optimization utilities. |
+| **AdvancedRun** | Used to run commands with elevated `TrustedInstaller`. |
+| **OpenShell** | Download file, Custom menu themes and UI configurations. |
+| **Nvidia** | NvidiaProfileInspector and Pre-configured Profile Inspector settings. |
+| **Timer Resolution** | Tools to set and mesaure Timer Resolution. |
 | **Wallpaper** | Custom desktop background image asset. |
 
 ---
@@ -39,6 +39,6 @@ If the main tweaking script fails to fetch this repository automatically:
 ## ⚠️ Security & Usage
 
 > [!CAUTION]
-> Running applications via **NSudo** grants system-level permissions. Execute commands with care.
+> Running applications via **AdvancedRun** grants system-level permissions. Execute commands with care.
 
 * Do not rename or modify subfolders inside the installation directory.
