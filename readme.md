@@ -1,31 +1,44 @@
+<div align="center">
+
 # 🛠️ bardhzzY Utility Tools
 
-Assets and secondary binaries fetched by the main **bardhzzY Tweaking Utility**.
+**Secondary binaries and configuration assets for the bardhzzY Tweaking Script.**
 
-[![Download ZIP](https://img.shields.io/badge/Download-Repository%20ZIP-blue?style=for-the-badge&logo=github)](https://github.com/bardh1xyz/bardhzzY-Utility-Tools/releases/download/v1.0.0/bardhzzY.Utility.Tools.zip)
-
----
-
-## 📥 Manual Download
-
-If the main tweaking script fails to download this repository automatically, you can download the tools manually:
-
-1. Click the **[Download Repository ZIP](https://github.com/bardh1xyz/bardhzzY-Utility-Tools/releases/download/v1.0.0/bardhzzY.Utility.Tools.zip)** button above (or [click here to download directly](https://github.com/bardh1xyz/bardhzzY-Utility-Tools/releases/download/v1.0.0/bardhzzY.Utility.Tools.zip)).
-2. Extract the downloaded `.zip` file directly into your **`C:\`** drive.
+[![Latest Release](https://img.shields.io/github/v/release/bardh1xyz/bardhzzY-Utility-Tools?color=0078D6&style=for-the-badge&logo=github)](https://github.com/bardh1xyz/bardhzzY-Utility-Tools/releases/latest)
+[![Download ZIP](https://img.shields.io/badge/Direct_Download-ZIP-2ea44f?style=for-the-badge&logo=github)](https://github.com/bardh1xyz/bardhzzY-Utility-Tools/releases/download/v1.0.0/bardhzzY.Utility.Tools.zip)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 
 ---
 
-## 🧰 Included Tools & Features
+</div>
 
-* **NSudo:** Utility tool to execute commands and applications with elevated privileges (`TrustedInstaller` / System level).
-* **OpenShell:** Custom themes and configurations[cite: 1].
-* **Nvidia:** Custom profile inspector settings[cite: 1].
-* **Timer Resolution:** Files to set & mesaure timer resolution[cite: 1].
-* **Wallpaper:** Custom image to be set as desktop background[cite: 1].
+## 📥 Manual Installation
+
+If the main tweaking script fails to fetch this repository automatically:
+
+1. **Download** the latest [`bardhzzY.Utility.Tools.zip`](https://github.com/bardh1xyz/bardhzzY-Utility-Tools/releases/download/v1.0.0/bardhzzY.Utility.Tools.zip) release.
+2. **Extract** the ZIP contents directly into your root drive directory (`C:\`).
+
+> [!IMPORTANT]
+> The target folder path must remain `C:\bardhzzY Utility Tools` so the main script can locate required binaries.
 
 ---
 
-## ℹ️ Usage Notes
+## 🧰 Included Components
 
-* Make sure to keep the folder structure intact after extraction so the main tweaking script can locate each tool properly.
-* Running tasks with elevated NSudo privileges should be done with care.
+| Utility | Purpose |
+| :--- | :--- |
+| **NSudo** | Run applications with elevated `TrustedInstaller` / System privileges. |
+| **OpenShell** | Custom menu themes and UI configurations. |
+| **Nvidia** | Pre-configured Profile Inspector settings. |
+| **Timer Resolution** | Latency optimization utilities. |
+| **Wallpaper** | Custom desktop background image asset. |
+
+---
+
+## ⚠️ Security & Usage
+
+> [!CAUTION]
+> Running applications via **NSudo** grants system-level permissions. Execute commands with care.
+
+* Do not rename or modify subfolders inside the installation directory.
