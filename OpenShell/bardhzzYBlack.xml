@@ -37,7 +37,7 @@
 		<Line>METRO_SEARCH=0</Line>
 		<Line>LIGHT_SEARCH=0</Line>
 		<Line>AUTOMODE_SEARCH=0</Line>
-		<Line>SEARCH_FRAME=1</Line>
+		<Line>SEARCH_FRAME=0</Line>
 		<Line>SEARCH_COLOR=1</Line>
 		<Line>SMALL_SEARCH=1</Line>
 		<Line>MODERN_SEARCH=1</Line>
